@@ -1,1 +1,2 @@
-# TTN_Swift_UI
+# swift_ui_demo
+SwiftUI
