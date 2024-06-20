@@ -15,10 +15,10 @@ struct Movie: Identifiable {
 
 let sampleMovies = [
     Movie(title: "Inception", posterName: "inception"),
-    Movie(title: "Interstellar", posterName: "inception"),
-    Movie(title: "The Dark Knight", posterName: "inception"),
-    Movie(title: "The Prestige", posterName: "inception"),
-    Movie(title: "Memento", posterName: "inception")
+    Movie(title: "Interstellar", posterName: "interstellar"),
+    Movie(title: "The Dark Knight", posterName: "the_dark_night"),
+    Movie(title: "The Prestige", posterName: "the_prestige"),
+    Movie(title: "Memento", posterName: "memento")
     // Add more movies as needed
 ]
 
